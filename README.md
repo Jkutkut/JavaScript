@@ -10,4 +10,4 @@ Here you will find all JavaScript based programs
 
 **·[A* using matrices](https://github.com/Jkutkut/Js_A-Star_Matix_Based):** A* Algorithm Implementation to use in node matrix.
 
-**·[A* using matrices](https://github.com/Jkutkut/Js_Path-finding):** A* Algorithm Implementation to find fastest way to exit a maze.
+**·[A* Path finding](https://github.com/Jkutkut/Js_Path-finding):** A* Algorithm Implementation to find fastest way to exit a maze.
