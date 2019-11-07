@@ -12,7 +12,7 @@ Here you will find all JavaScript based programs
 
 **·[Chess game](https://github.com/Jkutkut/Js_Chess-Game):** the clasic game to play 1 vs 1 in same device (with movements detection).
 
-**·[Snake game](https://github.com/Jkutkut/Js_Snake-Game):** the classic game, with different themes and dynamic rainbow made out of it's rgb values
+**·[Snake game](https://github.com/Jkutkut/Js_Snake-Game):** the classic game, with different themes and dynamic rainbow algorithm made out of it's rgb values
 
 
 
