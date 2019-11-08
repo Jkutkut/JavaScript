@@ -17,9 +17,9 @@ Here you will find JavaScript based programs:
 
 ## Only JavaScript:
 
-**·[Tree Fractal](https://github.com/Jkutkut/Js_Tree-Fractal):** Tree fractal generator. It features a slider to select the angle between branches.
+**·[Barnsley fern fractal](https://github.com/Jkutkut/Js_Barnsley-fern-fractal):** Representation of a Barnsley fern fractal using points.
 
-**·[Barnsley fern fractal](https://github.com/Jkutkut/Js_Barnsley-fern-fractal):** Representation of a Barnsley fern fractal using points. 
+**·[Tree Fractal](https://github.com/Jkutkut/Js_Tree-Fractal):** Tree fractal generator. It features a slider to select the angle between branches.
 
 
 ### jQuery:
