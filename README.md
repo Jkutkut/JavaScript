@@ -21,14 +21,8 @@ Here you will find JavaScript based programs:
 
 **·[Barnsley fern fractal](https://github.com/Jkutkut/Js_Barnsley-fern-fractal):** Representation of a Barnsley fern fractal using points. 
 
-**·[]():**
-
 
 ### jQuery:
 
 **·[Chess game](https://github.com/Jkutkut/Js_Chess-Game):** the clasic game to play 1 vs 1 in same device (with movements detection).
 
-
-
-
-**·[]():**
