@@ -1,6 +1,6 @@
 # JavaScript
 
-Here you will find all JavaScript based programs:
+Here you will find JavaScript based programs:
 
 ## Categories
 
