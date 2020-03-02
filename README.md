@@ -10,6 +10,8 @@ Here you will find JavaScript based programs:
 
 **·[A* using matrices](https://github.com/Jkutkut/Js_A-Star_Matix_Based):** A* Algorithm Implementation to use in node matrix.
 
+**·[Lissajous Curves](https://github.com/Jkutkut/JS-Lissajous-curves):** A way to visualice this curves using aproximation by dots.
+
 **·[Chess game](https://github.com/Jkutkut/Js_Chess-Game):** the clasic game to play 1 vs 1 in same device (with movements detection).
 
 **·[Snake game](https://github.com/Jkutkut/Js_Snake-Game):** the classic game, with different themes and dynamic rainbow algorithm made out of it's rgb values.
