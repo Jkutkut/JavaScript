@@ -9,6 +9,7 @@ Here you will find JavaScript based programs:
 **·[A* Path finding](https://github.com/Jkutkut/Js_Path-finding):** A* Algorithm Implementation to find fastest way to exit a maze.
 
 **·[A* using matrices](https://github.com/Jkutkut/Js_A-Star_Matix_Based):** A* Algorithm Implementation to use in node matrix.
+
 **·[Rubik's Cube](https://github.com/Jkutkut/JS-Rubik_Cube):** The logic in order to create a represent a fully functional Rubik's Cube.
 
 **·[Lissajous Curves](https://github.com/Jkutkut/JS-Lissajous-curves):** A way to visualice this curves using aproximation by dots.
