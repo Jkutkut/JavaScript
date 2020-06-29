@@ -8,6 +8,9 @@ Here you will find JavaScript based projects:
 
 **·[Rubik's Cube](https://github.com/Jkutkut/JS-Rubik_Cube):** The logic in order to create a represent a fully functional Rubik's Cube.
 
+
+**·[Fourier Series](https://github.com/Jkutkut/JS-Fourier-Series-Visualization):** A simple way to visualice the given Fourier Series.
+
 **·[A* Path finding](https://github.com/Jkutkut/Js_Path-finding):** A* Algorithm Implementation to find fastest way to exit a maze.
 
 **·[A* using matrices](https://github.com/Jkutkut/Js_A-Star_Matix_Based):** A* Algorithm Implementation to use in node matrix.
@@ -17,6 +20,8 @@ Here you will find JavaScript based projects:
 **·[Chess game](https://github.com/Jkutkut/Js_Chess-Game):** the clasic game to play 1 vs 1 in same device (with movements detection).
 
 **·[Snake game](https://github.com/Jkutkut/Js_Snake-Game):** the classic game, with different themes and dynamic rainbow algorithm made out of it's rgb values.
+
+**·[]():**
 
 
 ## Only JavaScript:
