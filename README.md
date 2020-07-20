@@ -8,8 +8,9 @@ Here you will find JavaScript based projects:
 
 **·[Rubik's Cube](https://github.com/Jkutkut/JS-Rubik_Cube):** The logic in order to create a represent a fully functional Rubik's Cube.
 
+**·[Fourier Series Visualization](https://github.com/Jkutkut/JS-Fourier-Series-Visualization):** A simple way to visualice the given Fourier Series.
 
-**·[Fourier Series](https://github.com/Jkutkut/JS-Fourier-Series-Visualization):** A simple way to visualice the given Fourier Series.
+**·[Fourier representation of SVGs](https://github.com/Jkutkut/JS-Drawing-SVGs-using-DFT):** Simple way to visualice the given SVG file using the DFT.
 
 **·[A* Path finding](https://github.com/Jkutkut/Js_Path-finding):** A* Algorithm Implementation to find fastest way to exit a maze.
 
