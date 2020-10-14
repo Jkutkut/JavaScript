@@ -26,7 +26,7 @@ Here you will find JavaScript based projects:
 
 
 ## Only JavaScript:
-**·[Basic CV generator](https://github.com/Jkutkut/CV-Jkutkut):** Generate your CV by editing a single JSON file.
+**·[CV generator](https://github.com/Jkutkut/CV-Jkutkut):** Generate your CV by editing a single JSON file.
 
 **·[7 segment display clock](https://github.com/Jkutkut/Js-Seven-segment-display-clock)**: Clock creating a digital 7 segment display.
 
