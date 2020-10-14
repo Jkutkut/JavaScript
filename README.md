@@ -26,13 +26,13 @@ Here you will find JavaScript based projects:
 
 
 ## Only JavaScript:
+**·[Basic CV generator](https://github.com/Jkutkut/CV-Jkutkut):** Generate your CV by editing a single JSON file.
 
 **·[7 segment display clock](https://github.com/Jkutkut/Js-Seven-segment-display-clock)**: Clock creating a digital 7 segment display.
 
 **·[Barnsley fern fractal](https://github.com/Jkutkut/Js_Barnsley-fern-fractal):** Representation of a Barnsley fern fractal using points.
 
 **·[Tree Fractal](https://github.com/Jkutkut/Js_Tree-Fractal):** Tree fractal generator. It features a slider to select the angle between branches.
-
 
 ### jQuery:
 
