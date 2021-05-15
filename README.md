@@ -38,6 +38,8 @@ Here you will find JavaScript based projects:
 
 **·[Chess game](https://github.com/Jkutkut/Js_Chess-Game):** the clasic game to play 1 vs 1 in same device (with movements detection).
 
+**·[Snake game](https://github.com/Jkutkut/Js_Snake-Game):** the classic game, with different themes and dynamic rainbow algorithm made out of it's rgb values.
+
 ## Custom libraries:
 
 **·[Tools](https://github.com/Jkutkut/JS-tools):** A custom libraries with diferent tools.
