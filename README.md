@@ -16,6 +16,8 @@ Here you will find JavaScript based projects:
 
 **·[A* using matrices](https://github.com/Jkutkut/Js_A-Star_Matix_Based):** A* Algorithm Implementation to use in node matrix.
 
+**[Dijkstra MSP](https://github.com/Jkutkut/JS-Dijkstra-Minimum-Spanning-Tree):** Visual way to see how a Spanning tree is generated using Dijkstra's algorithm.
+
 **·[Lissajous Curves](https://github.com/Jkutkut/JS-Lissajous-curves):** A way to visualice this curves using aproximation by dots.
 
 **·[Chess game](https://github.com/Jkutkut/Js_Chess-Game):** the clasic game to play 1 vs 1 in same device (with movements detection).
