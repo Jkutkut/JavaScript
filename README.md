@@ -14,7 +14,7 @@ Here you will find JavaScript based projects:
 
 **·[A* Path finding](https://github.com/Jkutkut/Js_Path-finding):** A* Algorithm Implementation to find fastest way to exit a maze.
 
-**·[A* using matrices](https://github.com/Jkutkut/Js_A-Star_Matix_Based):** A* Algorithm Implementation to use in node matrix.
+**·[A* using matrices](https://github.com/Jkutkut/JS-A_Star-Path-Finding-Matrices):** A* Algorithm Implementation to use in node matrix.
 
 **·[Dijkstra MSP](https://github.com/Jkutkut/JS-Dijkstra-Minimum-Spanning-Tree):** Visual way to see how a Spanning tree is generated using Dijkstra's algorithm.
 
