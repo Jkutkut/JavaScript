@@ -8,21 +8,23 @@ Here you will find JavaScript based projects:
 
 **·[Rubik's Cube](https://github.com/Jkutkut/JS-Rubik_Cube):** The logic in order to create a represent a fully functional Rubik's Cube.
 
-**·[Fourier Series Visualization](https://github.com/Jkutkut/JS-Fourier-Series-Visualization):** A simple way to visualice the given Fourier Series.
-
-**·[Fourier representation of SVGs](https://github.com/Jkutkut/JS-Drawing-SVGs-using-DFT):** Simple way to visualice the given SVG file using the DFT.
-
-**·[A* Path finding](https://github.com/Jkutkut/Js_Path-finding):** A* Algorithm Implementation to find fastest way to exit a maze.
-
-**·[A* using matrices](https://github.com/Jkutkut/JS-A_Star-Path-Finding-Matrices):** A* Algorithm Implementation to use in node matrix.
-
-**·[Dijkstra MSP](https://github.com/Jkutkut/JS-Dijkstra-Minimum-Spanning-Tree):** Visual way to see how a Spanning tree is generated using Dijkstra's algorithm.
+**·[Snake game](https://github.com/Jkutkut/Js_Snake-Game):** the classic game, with different themes and dynamic rainbow algorithm made out of it's rgb values.
 
 **·[Lissajous Curves](https://github.com/Jkutkut/JS-Lissajous-curves):** A way to visualice this curves using aproximation by dots.
 
 **·[Chess game](https://github.com/Jkutkut/Js_Chess-Game):** the clasic game to play 1 vs 1 in same device (with movements detection).
 
-**·[Snake game](https://github.com/Jkutkut/Js_Snake-Game):** the classic game, with different themes and dynamic rainbow algorithm made out of it's rgb values.
+#### Fourier:
+- **[Fourier Series Visualization](https://github.com/Jkutkut/JS-Fourier-Series-Visualization):** A simple way to visualice the given Fourier Series.
+
+- **[Fourier representation of SVGs](https://github.com/Jkutkut/JS-Drawing-SVGs-using-DFT):** Simple way to visualice the given SVG file using the DFT.
+
+#### Path finding and Minimum spanning tree:
+- **[A* for mazes](https://github.com/Jkutkut/JS-A_Star-for-mazes):** A* Algorithm Implementation to find fastest way to exit a maze.
+
+- **[A* using matrices](https://github.com/Jkutkut/JS-A_Star-Path-Finding-Matrices):** A* Algorithm Implementation to use in node matrix.
+
+- **[Dijkstra MSP](https://github.com/Jkutkut/JS-Dijkstra-Minimum-Spanning-Tree):** Visual way to see how a Spanning tree is generated using Dijkstra's algorithm.
 
 **·[]():**
 
